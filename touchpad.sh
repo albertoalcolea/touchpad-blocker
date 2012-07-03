@@ -1,6 +1,6 @@
 #!/bin/sh
 
-icon="/home/alberto/.icons/elementary/devices/48/input-mouse.svg"
+icon="~/.icons/elementary/devices/48/input-mouse.svg"
 
 status=`synclient -l | grep Touch`
 
